@@ -9,4 +9,5 @@ Data Science tools that have a visualized flow-chart-like interface
 | [Exploratory.io](https://exploratory.io/)                 | Offline/Online | R        | No          | Yes        | Minimal flow                                                    |
 | [Knime](https://www.knime.com/)                           | Offline        |          | No          | Yes        | Seems quite complicated                                         |
 | [Rapidminier](https://www.knime.com/)                     | Offline        |          | No          | Yes        | the free version can only deal with 100k rows                   |
+| [Alteryx](https://www.alteryx.com/)                     | Offline/Online        |    R      | No          | Yes        | Seems to be wholly focused on the corporate market |
 
